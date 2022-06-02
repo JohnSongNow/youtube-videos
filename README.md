@@ -17,7 +17,7 @@ The relevant folder(s) for each video
 |---|---|
 |[*Parallel Programming*](https://www.youtube.com/watch?v=aucZUdvkVyI&t=)|[*Parallel Programming*](https://github.com/JohnSongNow/youtube-tutorials/tree/master/parallel-programming)|
 |[*Pathfinding*](https://youtu.be/GC-nBgi9r0U)|[*Pathfinding*](https://github.com/JohnSongNow/youtube-videos/tree/master/pathfinding)|
-|[*Bubble Sort*](https://youtu.be/GC-nBgi9r0U)|[*Bubble Sort*](https://github.com/JohnSongNow/youtube-videos/tree/master/bubble-sort)|
+|[*Bubble Sort*](https://youtu.be/NwW098UgfmA)|[*Bubble Sort*](https://github.com/JohnSongNow/youtube-videos/tree/master/bubble-sort)|
 |[*Merge Sort*](https://youtu.be/Vt-p-CiYWsM)|[*Merge Sort*](https://github.com/JohnSongNow/youtube-videos/tree/master/merge-sort)|
 
 ## Contributing/Error Correction
